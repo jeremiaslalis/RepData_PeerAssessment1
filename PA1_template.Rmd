@@ -1,6 +1,7 @@
 ---
 title: "Reproducible Research Course Project (Week 2)"
 date: "May 11, 2016"
+author: Jeremias Lalis
 output: html_document
 ---
 
